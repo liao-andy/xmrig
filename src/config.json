@@ -59,7 +59,7 @@
     "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
-        
+        {
             "algo": null,
             "coin": null,
             "url": "donate.v2.xmrig.com:3333",
